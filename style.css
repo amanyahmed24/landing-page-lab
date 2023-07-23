@@ -5,7 +5,7 @@
 }
 
 .project{
-    background-image: url(./images/office-desktop-with-laptop-other-elements.jpg);
+    background-image: url(images/office-desktop-with-laptop-other-elements.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height: calc(100vh - 60px);
